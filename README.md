@@ -8,9 +8,13 @@ Dataset: Uncleaned_employees_final_dataset.csv
 
 # Module 1: Data Processing using Python
 Data Cleaning/Pre-Processing: The first step is to obtain clean and refined data for proper analysis for this the following steps were performed in order to obtain a clean dataset:
+
 Removed duplicate rows.
+
 Removed rows for which numeric columns are having irrelevant data type values
+
 Removed irrelevant values from each column. Validated all values for a column, Checked for any inconsistencies or discrepancies in data types, units, or formats. 
+
 Exported the cleaned dataset as a .csv file and converted it into a SQL file for retrieving useful information from the database using MySQL for further analysis.
 
 File: Pre-Processing the data using Python.ipynb
